@@ -1,7 +1,8 @@
 # 🤖 AI Assistive Tool
 
 A Streamlit app to help blind and autistic users understand image content using AI, translation, and speech.
-
+Live Demo
+You can access the live application at: [(https://assistool.streamlit.app/)](https://assistool.streamlit.app/)
 ---
 
 ## 🚀 Features
