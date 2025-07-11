@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#7F00FF"              # Neon purple (buttons/accents)
+backgroundColor = "#0d0d0d"           # Very dark gray (main background)
+secondaryBackgroundColor = "#1f1f1f"  # Slightly lighter dark gray (containers)
+textColor = "#E0E0E0"                 # Soft white for text
+font = "monospace"
